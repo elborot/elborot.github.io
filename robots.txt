@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://elborot.github.io/sitemap.html
+Sitemap: https://elborot.github.io/fa/sitemap.html
+Sitemap: https://elborot.github.io/fi/sitemap.html
+Sitemap: https://elborot.github.io/fu/sitemap.html
